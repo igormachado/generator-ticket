@@ -33,7 +33,7 @@
 <p>Quando é inserido um usuário do github<p>
 <img src="/src/assets/generator-ticket-03.png">
 
-<h3>
+<p>
    Esse desafio foi criado para o #boracodar, um projeto da Rocketseat com desafios semanais para você praticar desenvolvendo como achar melhor e evoluir seu código para o próximo nível.
-</h3>
+</p>
 
